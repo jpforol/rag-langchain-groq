@@ -1,0 +1,9 @@
+[dotfiles]
+.env
+
+[files]
+venv
+images
+
+[docs]
+curriculo.pdf
