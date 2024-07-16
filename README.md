@@ -35,7 +35,7 @@ Este projeto implementa um sistema de chatbot para responder perguntas com base 
 
 ## Mais Informações
 
-Para mais informações sobre este projeto, confira meu artigo publicado no Linkedin.
+Para mais informações sobre este projeto, confira meu artigo publicado no [Linkedin](https://www.linkedin.com/pulse/transformando-curr%25C3%25ADculo-em-rag-qa-com-python-e-forequi-de-oliveira-r5hef).
 
 ## Contribuição
 
